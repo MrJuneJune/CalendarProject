@@ -1,0 +1,14 @@
+#calendar {
+    background-color: hotpink;
+    color: blue;
+}
+
+#todo {
+    background-color: blue;
+    color: hotpink;
+}
+
+.homeDisplay {
+    grid-template-columns: minmax(150px, 25%) 1fr;
+    display: grid;
+}
