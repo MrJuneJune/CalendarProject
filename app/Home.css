@@ -1,11 +1,11 @@
 #calendar {
-    background-color: hotpink;
-    color: blue;
+    background-color: rgb(250, 106, 142);
+    color: white;
 }
 
 #todo {
-    background-color: blue;
-    color: hotpink;
+    background-color: rgb(255, 247, 249);
+    color: rgb(250, 106, 142);
 }
 
 .homeDisplay {
